@@ -7,7 +7,7 @@ Link to the paper:
 
 If you use this work, please cite:
 
-** (2024) "Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimization" **
+** A. Al-Zawqari, A. Safa, G. Vandersteen (2024) "Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimization" **
 
 
 
