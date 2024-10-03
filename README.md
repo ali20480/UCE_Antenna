@@ -1,4 +1,4 @@
-# Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimization
+# CODE WILL BE PUBLISHED SOON: Automating the Design of Multi-band Microstrip Antennas via Uniform Cross-Entropy Optimization
 This repository contains evaluation code for the Uniform Cross-Entropy (UCE) Antenna Design method presented in paper.
 
 Link to the paper: 
